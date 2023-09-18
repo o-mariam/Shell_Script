@@ -1,4 +1,4 @@
-# BASH Shell Tool for `event.dat` Data Analysis
+# BASH Shell Tool for `date.dat` Data Analysis
 
 Welcome to the BASH shell tool designed to analyze and display data from the `event.dat` file. The dataset in `event.dat` comprises elements structured as follows:
 
